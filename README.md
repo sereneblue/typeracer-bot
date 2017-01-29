@@ -10,7 +10,7 @@ A simple bot made using Python and Selenium. Install selenium using `pip install
 To start the bot run the script by doing `python typeracer.py`
 
 ###Console:
-![Typeracer console](https://github.com/sereneblue/typeracer-bot/raw/master/screenshot.png)
+![Typeracer console](https://raw.githubusercontent.com/sereneblue/typeracer-bot/master/screenshot.png)
 
 ###Demo:
-![Typeracer demo](https://github.com/sereneblue/typeracer-bot/raw/master/demo.gif)
+![Typeracer demo](https://raw.githubusercontent.com/sereneblue/typeracer-bot/master/demo.gif)
